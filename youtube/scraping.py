@@ -2,6 +2,7 @@ import requests
 import csv
 import time
 
+# https://youtube.com/shorts/N2VK5TssYnE?si=9paNfv8ikbKJ6vi6
 API_KEY = 'AIzaSyBj1hCqak2ovj56QxZeGGck7xvxC-9cUs4'
 VIDEO_ID = 'Z0wq2ryAMM4'
 URL = 'https://www.googleapis.com/youtube/v3/commentThreads'
